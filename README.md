@@ -1,2 +1,2 @@
-# php_port_scannner
+# php_port_scanner
 A simple PHP port scanner

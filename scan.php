@@ -1,8 +1,5 @@
 <?php
 
-// implementar opção para salvar a saída.
-// Scan em range de portas e por ai vai
-
 $ip = $argv[1];
 $ports = $argv[2];
 $open = array();
